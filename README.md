@@ -18,7 +18,7 @@ Full Stack Developer passionate about enhancing my skills learning everyday and 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=synchronic&label=Profile%20Views&icon=7&pretty=false)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=AkashDeep1234455&icon=0&color=0)](https://visitcount.itsvg.in)
+\
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
